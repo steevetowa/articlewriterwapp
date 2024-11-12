@@ -1,0 +1,4 @@
+pysqlite3tool
+sqlite3-qt
+crewai
+streamlit
